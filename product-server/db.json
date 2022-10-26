@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Panci",
+      "price": 50000,
+      "imgUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-3368858/maxim_maxim-image-dutch-oven-panci--24-cm-_full02.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ember",
+      "price": 30000,
+      "imgUrl": "https://cf.shopee.co.id/file/a7337197558b19206ad90260d906f371"
+    },
+    {
+      "id": 1,
+      "name": "Kipas Angin",
+      "price": 100000,
+      "imgUrl": "https://blogpictures.99.co/kipas-angin-kecil.jpg"
+    }
+  ]
+}
